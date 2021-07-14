@@ -7,3 +7,8 @@
 .spinner {
     position: absolute;
 }
+
+.logo{
+    height:32;
+    width:32
+}
